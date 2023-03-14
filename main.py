@@ -1,0 +1,1 @@
+from vilmedic import AutoModel
